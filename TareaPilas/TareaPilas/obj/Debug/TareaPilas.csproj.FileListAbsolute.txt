@@ -1,0 +1,10 @@
+C:\Users\Pipe\source\repos\TareaPilas\TareaPilas\obj\Debug\TareaPilas.csprojAssemblyReference.cache
+C:\Users\Pipe\source\repos\TareaPilas\TareaPilas\obj\Debug\TareaPilas.Form1.resources
+C:\Users\Pipe\source\repos\TareaPilas\TareaPilas\obj\Debug\TareaPilas.Properties.Resources.resources
+C:\Users\Pipe\source\repos\TareaPilas\TareaPilas\obj\Debug\TareaPilas.csproj.GenerateResource.cache
+C:\Users\Pipe\source\repos\TareaPilas\TareaPilas\obj\Debug\TareaPilas.csproj.CoreCompileInputs.cache
+C:\Users\Pipe\source\repos\TareaPilas\TareaPilas\bin\Debug\TareaPilas.exe.config
+C:\Users\Pipe\source\repos\TareaPilas\TareaPilas\bin\Debug\TareaPilas.exe
+C:\Users\Pipe\source\repos\TareaPilas\TareaPilas\bin\Debug\TareaPilas.pdb
+C:\Users\Pipe\source\repos\TareaPilas\TareaPilas\obj\Debug\TareaPilas.exe
+C:\Users\Pipe\source\repos\TareaPilas\TareaPilas\obj\Debug\TareaPilas.pdb
